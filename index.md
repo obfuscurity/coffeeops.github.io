@@ -157,7 +157,7 @@ layout: default
   </tr>
   <tr>
     <td class="tg-yw4l">Eastern USA (GMT-04)</td>
-    <td class="tg-yw4l">Weekly on Tuesdays. <a href="https://calendar.google.com/calendar/embed?src=c_v46tmvmu7qfem5it2tlj4r7dlg%40group.calendar.google.com&ctz=America%2FNew_York">HTML</a>&nbsp;<a href="https://calendar.google.com/calendar/ical/c_v46tmvmu7qfem5it2tlj4r7dlg%40group.calendar.google.com/public/basic.ics">iCal</a></td>
+    <td class="tg-yw4l">Bi-weekly on Tuesdays. <a href="https://calendar.google.com/calendar/embed?src=c_v46tmvmu7qfem5it2tlj4r7dlg%40group.calendar.google.com&ctz=America%2FNew_York">HTML</a>&nbsp;<a href="https://calendar.google.com/calendar/ical/c_v46tmvmu7qfem5it2tlj4r7dlg%40group.calendar.google.com/public/basic.ics">iCal</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/obfuscurity">Jason Dixon</a></td>
   </tr>
 </table>
